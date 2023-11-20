@@ -1,0 +1,1 @@
+# pytest_trigno_boilerplate
